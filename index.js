@@ -4,8 +4,8 @@ let sorteados = [];
 let valorMaximo = 999999; // valor máximo que o número pode chegar
 let MinimoCasasDecimais = 6; // valor mínimo de casas decimais
 let quantidadeNumeros = 30; // quantidade de números a serem gerados
-let resp = "";
-let sugestao = "";
+let sugestao = 0;
+//let resp = "";
 
 async function Inicio() {
 
